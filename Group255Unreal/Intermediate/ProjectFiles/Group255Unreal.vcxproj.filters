@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Group255Unreal.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2CEFFC54-B545-4FD3-A18F-A8308C37DBF7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Group255Unreal.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Group255UnrealEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D0B416C9-0762-4376-B02C-2F765B49551B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Group255Unreal">
+      <UniqueIdentifier>{AE2F7C97-D480-4A0F-B73E-CA2A7705A612}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Group255Unreal\Group255Unreal.Build.cs">
+      <Filter>Source\Group255Unreal</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Group255Unreal\Group255Unreal.cpp">
+      <Filter>Source\Group255Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Group255Unreal\Group255Unreal.h">
+      <Filter>Source\Group255Unreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Group255Unreal\Group255UnrealCharacter.cpp">
+      <Filter>Source\Group255Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Group255Unreal\Group255UnrealCharacter.h">
+      <Filter>Source\Group255Unreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Group255Unreal\Group255UnrealGameMode.cpp">
+      <Filter>Source\Group255Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Group255Unreal\Group255UnrealGameMode.h">
+      <Filter>Source\Group255Unreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Group255Unreal\Group255UnrealPlayerController.cpp">
+      <Filter>Source\Group255Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Group255Unreal\Group255UnrealPlayerController.h">
+      <Filter>Source\Group255Unreal</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
